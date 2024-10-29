@@ -10377,7 +10377,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "BOOT"
 			(at 142.24 59.6899 90)
 			(effects
 				(font
@@ -11690,7 +11690,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SW_PUSH"
+		(property "Value" "RESET"
 			(at 52.07 209.5499 90)
 			(effects
 				(font
