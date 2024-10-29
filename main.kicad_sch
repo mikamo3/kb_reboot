@@ -6967,7 +6967,7 @@
 				)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 226.06 39.37 90)
 			(effects
 				(font
@@ -7002,7 +7002,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1658"
+		(property "LCSC" "C1644"
 			(at 226.06 44.45 0)
 			(effects
 				(font
@@ -11429,7 +11429,7 @@
 				)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 226.06 50.8 90)
 			(effects
 				(font
@@ -11464,7 +11464,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C1658"
+		(property "LCSC" "C1644"
 			(at 226.06 55.88 0)
 			(effects
 				(font

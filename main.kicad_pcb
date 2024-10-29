@@ -18723,7 +18723,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "1b4310c5-450f-4a26-b070-9ae95f4c9319")
@@ -18777,7 +18777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C1658"
+		(property "LCSC" "C1644"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -28097,7 +28097,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "30p"
+		(property "Value" "15p"
 			(at 0 -1.43 90)
 			(layer "B.Fab")
 			(uuid "e7e81fec-2764-4cfe-b9d7-07ce4c57d0a8")
@@ -28151,7 +28151,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C1658"
+		(property "LCSC" "C1644"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
